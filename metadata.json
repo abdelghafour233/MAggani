@@ -1,0 +1,5 @@
+{
+  "name": "CloudConvert Clone - AI Image Studio",
+  "description": "A sophisticated image conversion tool that mirrors CloudConvert's utility while adding AI-powered insights using Gemini. Convert between JPG, PNG, and WebP, and get AI descriptions and SEO-friendly filename suggestions.",
+  "requestFramePermissions": []
+}
